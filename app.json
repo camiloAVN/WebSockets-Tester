@@ -16,6 +16,13 @@
       "supportsTablet": true
     },
     "android": {
+      "package":"com.camilo.websockettestapp",
+      "versionCode":1,
+      "premissions":[
+        "android.permission.INTERNET",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.ACCESS_WIFI_STATE"
+      ],
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
@@ -24,6 +31,11 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "3554bd31-245b-41c5-8ddc-62984c212666"
+      }
     }
   }
 }
