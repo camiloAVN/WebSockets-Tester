@@ -47,20 +47,6 @@
 
 ---
 
-## 📱 Screenshots
-
-<div align="center">
-
-| Network Detection | Connection Test | Message Exchange |
-|:---:|:---:|:---:|
-| ![Network](./assets/img/screenshot-network.png) | ![Connection](./assets/img/screenshot-connection.png) | ![Messages](./assets/img/screenshot-messages.png) |
-
-*Testing Ethernet connection with real-time status updates*
-
-</div>
-
----
-
 ## 🚀 Installation
 
 ### Prerequisites
