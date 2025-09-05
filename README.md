@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![WebSocket Tester](./assets/img/Imagen.png)
+![WebSocket Tester](./assets/img/Imagen1.png)
 
 **A powerful React Native app for testing WebSocket connections over Ethernet, WiFi, and cellular networks**
 
